@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aterasep.github.io/sitemap.html.gz
+Sitemap: https://aterasep.github.io/app/sitemap.html.gz
+Sitemap: https://aterasep.github.io/assets/sitemap.html.gz
+Sitemap: https://aterasep.github.io/css/sitemap.html.gz
+Sitemap: https://aterasep.github.io/includes/sitemap.html.gz
+Sitemap: https://aterasep.github.io/item/sitemap.html.gz
+Sitemap: https://aterasep.github.io/src/sitemap.html.gz
